@@ -42,7 +42,7 @@ This is a simple, modern, and glowing Calculator web app built using **HTML**, *
 
 **Darshan. R**  
 Beginner Web Developer | Learning by Building  
-Connect with me on [LinkedIn](www.linkedin.com/in/darshan-r-83bb83287)  
+Connect with me on [LinkedIn]  (www.linkedin.com/in/darshan-r-83bb83287)
 GitHub: [Darshan82775](https://github.com/Darshan82775)
 
 ---
