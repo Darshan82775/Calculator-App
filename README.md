@@ -7,7 +7,7 @@ This is a simple, modern, and glowing Calculator web app built using **HTML**, *
 ## 🚀 Live Demo
 
 👉 [Click to Try the Calculator](https://darshan82775.github.io/Calculator-App/)  
-(*Replace with your real GitHub Pages link*)
+
 
 ---
 
